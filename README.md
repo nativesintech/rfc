@@ -17,3 +17,7 @@ Once you have opened a pull request detailing what's above, the org admins will 
 ## Code of Conduct
 
 Interactions in this repository will follow our code of conduct which you can find here: [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
+
+## License
+
+This repository is licensed under MIT: [LICENSE](LICENSE).
