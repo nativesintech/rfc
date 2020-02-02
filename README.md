@@ -13,3 +13,7 @@ If you are interested in utilizing NiT resources to host your platform we would 
 - If you would like to use a paid service like Digital Ocean, what do you estimate the monthly cost would be?
 
 Once you have opened a pull request detailing what's above, the org admins will review your request and comment on whether it will be feasible or not to host your platform using our services. If your request is accepted, it will be merged into this repository and we will work together to get your platform up and running. If your request is denied, we will close the pull request.
+
+## Code of Conduct
+
+Interactions in this repository will follow our code of conduct which you can find here: [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
